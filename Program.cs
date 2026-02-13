@@ -49,5 +49,7 @@ class Program
         {
             vehicle.Move();
         }
+
+        Console.WriteLine("Протестувати новий коміт");
     }
 }
